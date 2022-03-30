@@ -1,0 +1,6 @@
+bin/
+obj/
+.ionide/
+.idea/
+data.json
+Prices.csv
